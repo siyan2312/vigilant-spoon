@@ -16,7 +16,5 @@
       "dest": "/index.html"
     }
   ],
-  "env": {
-    "COZE_WORKLOAD_API_TOKEN": "@coze-api-token"
-  }
+
 }
